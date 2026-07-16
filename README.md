@@ -40,3 +40,5 @@ npm i fastify
 npm i dotenv
 npm i zod
 npm i eslint @rocketseat/eslint-config -D
+npm i prisma -D
+npm install @prisma/adapter-pg
